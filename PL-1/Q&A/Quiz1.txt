@@ -1,0 +1,20 @@
+Q: In a prokaryotic cell the DNA molecule is the nucleus:
+A: false
+
+Q: Phylogenetic analysis based on molecular traits are typically more accurate:
+A: true
+
+Q: Evolutionary biology involves the study of:
+A: The process of natural selection that allows some DNA mutations to survive and cause others to die out
+
+Q: The DNA molecule is:
+A: double stranded
+
+Q: The DNA molecule is composed of:
+A: four types of molecules
+
+Q: Which of the following is not true about DNA?
+A: It doesn't matter which direction you write the sequence in
+
+Q: RNA molecules are translated into:
+A: Proteins
